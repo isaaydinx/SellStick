@@ -1,0 +1,7 @@
+---
+#Örnek
+#Items içine: - "id:meta:itemAdi:TaneFiyatı" şeklinde yeni bir satılacak item ekleyebilirsiniz
+Items:
+  - "1:0:Taş:100"
+  - "54:0:Sandık:50"
+...
